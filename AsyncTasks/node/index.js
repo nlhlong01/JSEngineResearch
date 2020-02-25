@@ -4,7 +4,7 @@ const N_TASKS = 1000000;
 
 function calculateQueueSize() {
   for (let i = 0; i < N_TASKS; i++) {
-    setTimeout(() => { }, 60000); // make sure no task is pushed to the queue until all tasks are started
+    setTimeout(() => { }, 10000); // make sure no task is pushed to the queue until all tasks are started
   }
 }
 
