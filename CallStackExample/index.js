@@ -6,5 +6,6 @@ const foo = () => {
   bar();
   baz();
 }
+
 // Execute the root function 
 foo();
