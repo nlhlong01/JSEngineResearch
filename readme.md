@@ -11,13 +11,13 @@ This repo contains browser and Node programs used in my research project for the
 
 - To run a Node program:
 ```
-cd [Program Name]/node
+cd [ProgramName]/node
 node index.js
 ```
 
 - To run a browser program:
 ```
-cd [Program Name]/browser
+cd [ProgramName]/browser
 google-chrome index.html
 OR
 firefox index.html
